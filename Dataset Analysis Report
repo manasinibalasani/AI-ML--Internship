@@ -1,0 +1,18 @@
+classification
+
+📄 Dataset Analysis Report (1 Page – Combined)
+Overview
+
+This task involved analyzing two datasets—Titanic and Students Performance—to understand their structure, feature types, and suitability for machine learning. Both datasets were explored using the same analytical steps for consistency.
+
+Data Structure & Types
+
+The Titanic dataset contains mixed data types with missing values, while the Students dataset is cleaner with no null values. Both datasets include numerical, categorical, ordinal, and binary features.
+
+Data Quality
+
+Titanic data has missing values in Age, Cabin, and Embarked columns, requiring preprocessing. The Students dataset does not contain missing values, indicating higher data quality.
+
+Target Variables & ML Readiness
+
+The Titanic dataset is suitable for classification tasks, predicting passenger survival. The Students dataset is suitable for regression or classification, predicting academic performance. Both datasets are appropriate for machine learning after minimal preprocessing.
